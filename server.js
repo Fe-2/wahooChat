@@ -1,5 +1,6 @@
 /*
 websocket支持两种类型的数据传输：text类型和binary类型，其中二进制数据是通过流的模式发送和读取的
+https://api.starter-us-west-2.openshift.com/oapi/v1/namespaces/wahoo/buildconfigs/wahoo/webhooks/eec91e5acc6172b6/github
 */
 const ws = require('nodejs-websocket');
 const http = require('http');
