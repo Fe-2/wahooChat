@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    var ws = new WebSocket('ws://192.168.1.100:8080');
+    var ws = new WebSocket('ws://sqy3l5z.hk1.mofasuidao.cn');
     ws.onopen = function() { // websocket开启连接的回调函数
 
          };
