@@ -38,7 +38,7 @@ let app = http.createServer((request, response) => {
         response.end();
     });
 });
-app.listen(3000);
+app.listen(8888);
 //以上步骤成功在8888端口渲染出相应的html界面
 //conn是对应的connection的实例
 const userList = [];
